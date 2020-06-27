@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qrreader_writer/static/css/main.d68457c3.chunk.css",
+    "main.js": "/qrreader_writer/static/js/main.dbab941a.chunk.js",
+    "main.js.map": "/qrreader_writer/static/js/main.dbab941a.chunk.js.map",
+    "runtime-main.js": "/qrreader_writer/static/js/runtime-main.532c4183.js",
+    "runtime-main.js.map": "/qrreader_writer/static/js/runtime-main.532c4183.js.map",
+    "static/js/2.cf14d14e.chunk.js": "/qrreader_writer/static/js/2.cf14d14e.chunk.js",
+    "static/js/2.cf14d14e.chunk.js.map": "/qrreader_writer/static/js/2.cf14d14e.chunk.js.map",
+    "index.html": "/qrreader_writer/index.html",
+    "precache-manifest.1cf0b8accc23f33f0407b526a368755a.js": "/qrreader_writer/precache-manifest.1cf0b8accc23f33f0407b526a368755a.js",
+    "service-worker.js": "/qrreader_writer/service-worker.js",
+    "static/css/main.d68457c3.chunk.css.map": "/qrreader_writer/static/css/main.d68457c3.chunk.css.map",
+    "static/js/2.cf14d14e.chunk.js.LICENSE.txt": "/qrreader_writer/static/js/2.cf14d14e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.532c4183.js",
+    "static/js/2.cf14d14e.chunk.js",
+    "static/css/main.d68457c3.chunk.css",
+    "static/js/main.dbab941a.chunk.js"
+  ]
+}
