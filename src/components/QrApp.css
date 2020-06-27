@@ -1,0 +1,11 @@
+div {
+    padding: 25px;
+}
+
+div#main-area {
+     width: 100%;
+     text-align: center;
+ }
+div#qr-generator {
+    display: inline-block;
+}
